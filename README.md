@@ -1,6 +1,6 @@
 # SysInfo
 
-System call implemtation to linux kernel. This project includes kernel space and User space. The aim of the project is to get some specific files from the **/proc** file. Some scenarios are described below.
+System call implementation to linux kernel. This project includes kernel space and User space. The aim of the project is to get some specific files from the **/proc** file. Some scenarios are described below.
 
 
 # Implementation Details:
