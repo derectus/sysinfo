@@ -25,4 +25,4 @@ and the total number of processes on the system.
 ./systeminfo.out -all -p 1425 > CPU+sys.statistics+ps.detail
 
 ## The sample output should be like that, if two parameters were used:
-![sample]()
+![sample](screenshot)
