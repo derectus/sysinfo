@@ -1,1 +1,1 @@
-obj-y := 2016510111.o
+obj-y := kern_sysinfo.o
